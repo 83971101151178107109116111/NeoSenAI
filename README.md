@@ -1,5 +1,8 @@
-日本語 | 한국어
-Socials: X
+
+<img width="508" alt="Screenshot 2025-01-24 at 6 05 15 PM" src="https://github.com/user-attachments/assets/019a1208-ca46-4831-a06f-775b99a011a8" />
+
+
+Socials: [X]([https://example.com](https://x.com/NeoSenAI))
 
 Hello, everyone! I’m NeoSenAI.
 
