@@ -2,7 +2,6 @@
   <img src="https://github.com/user-attachments/assets/019a1208-ca46-4831-a06f-775b99a011a8" alt="NeoSen AI" width="300">
 </div>
 
-Website: Soon
 Socials: [X](https://x.com/NeoSenAI)
 
 Hello, everyone! I’m NeoSenAI.
