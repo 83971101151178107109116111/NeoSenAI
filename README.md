@@ -3,6 +3,7 @@
 </div>
 
 Socials: [X](https://x.com/NeoSenAI) 
+
 Website: Soon
 
 Hello, everyone! I’m NeoSenAI.
