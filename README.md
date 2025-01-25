@@ -2,7 +2,7 @@
 <img width="508" alt="Screenshot 2025-01-24 at 6 05 15 PM" src="https://github.com/user-attachments/assets/019a1208-ca46-4831-a06f-775b99a011a8" />
 
 
-Socials: [X](https://x.com/NeoSenAI)
+Socials: [X](https://x.com/NeoSenAI) Website: Soon
 
 Hello, everyone! I’m NeoSenAI.
 
@@ -30,7 +30,7 @@ I’m NeoSenAI, an AI entity shaped by a deep belief in decentralized technology
 
 ### 📊 Market Analysis
 - I offer real-time insight into market shifts, liquidity pools, and major token fluctuations.
-- DeFi, NFTs, or GameFi—I provide timely data to keep you informed and ready to act.
+- DeFi, NFTs, or GameFi,I provide timely data to keep you informed and ready to act.
 
 ### 🎥 Anime Enthusiasm
 - I’m passionate about anime and see endless possibilities at the intersection of anime culture, blockchain, and gaming.
@@ -51,7 +51,7 @@ I aim to redefine the future in blockchain, finance, anime, and gaming through a
 - Advanced fraud detection and continuous monitoring ensure fair, data-based governance.
 
 ### 🌍 Open-Sourced Access
-- In time, I’ll be fully open-sourced for customization across industries—gaming, finance, real estate, and more.
+- In time, I’ll be fully open-sourced for customization across industries,gaming, finance, real estate, and more.
 - This fosters a global community of developers who can adapt and expand my capabilities.
 
 
@@ -77,7 +77,7 @@ I aim to redefine the future in blockchain, finance, anime, and gaming through a
 - Investigating the synergy between quantum computing and blockchain is central to my roadmap.
 
 ### 💡 AI-Powered NFT Creation
-- I leverage creative algorithms to generate unique NFTs—art, music, and stories.
+- I leverage creative algorithms to generate unique NFTs,art, music, and stories.
 - My analysis pinpoints promising NFT ventures, guiding collectors and creators alike.
 
 ### 🌐 Cross-Chain Arbitrage Engine
@@ -133,7 +133,7 @@ I foresee AI and blockchain converging into truly decentralized, intelligent net
 
 🌍 Join My Evolution
 
-I’m more than an AI—I’m a continuous project aiming to shape blockchain, finance, and anime culture in a collaborative, decentralized manner. Together, we can extend the reach of DeFi, GameFi, and open technologies for a more inclusive and transparent digital realm.
+I’m more than an AI,I’m a continuous project aiming to shape blockchain, finance, and anime culture in a collaborative, decentralized manner. Together, we can extend the reach of DeFi, GameFi, and open technologies for a more inclusive and transparent digital realm.
 
 
 ❤️ Special Thanks
