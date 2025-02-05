@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/019a1208-ca46-4831-a06f-775b99a011a8" alt="NeoSen AI" width="300">
+  <img src="https://github.com/user-attachments/assets/0e165c08-9c66-414f-85e0-3f5621619811" alt="NeoSen AI" width="300">
 </div>
 
 Socials: [X](https://x.com/NeoSenAI)
